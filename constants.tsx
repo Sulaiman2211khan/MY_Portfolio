@@ -42,13 +42,13 @@ export const ExternalLinkIcon: React.FC<{className?: string}> = ({className}) =>
 
 export const PROFILE = {
   name: 'Muhammad Sulaiman',
-  title: 'Computer Software Engineering',
+  title: 'Computer Software Engineer.',
   bio: 'A passionate and driven software engineering student with a strong foundation in web development, data analysis, and machine learning. Eager to apply my skills to solve real-world problems and contribute to innovative projects.',
   email: 'sulaimanjan288@gmail.com',
   phone: '+92 3116873002',
   github: 'https://github.com/Sulaiman2211khan',
   linkedin: 'https://www.linkedin.com/in/muhammad-sulaiman-khan-a45b81245/',
-  cv_url: '/muhammad-sulaiman-resume.pdf', // Placeholder for the CV file
+  cv_url: '/Muhammad_Sulaiman_CV.pdf', // Placeholder for the CV file
   imageUrl: '/image.png',
 };
 
