@@ -48,8 +48,8 @@ export const PROFILE = {
   phone: '+92 3116873002',
   github: 'https://github.com/Sulaiman2211khan',
   linkedin: 'https://www.linkedin.com/in/muhammad-sulaiman-khan-a45b81245/',
-  cv_url: '/Muhammad_Sulaiman_CV.pdf', // Placeholder for the CV file
-  imageUrl: '/image.png',
+  cv_url: '/MY_Portfolio/Muhammad_Sulaiman_CV.pdf', // Placeholder for the CV file
+  imageUrl: '/MY_Portfolio/image.png',
 };
 
 export const EXPERIENCE_DATA: ExperienceItem[] = [
